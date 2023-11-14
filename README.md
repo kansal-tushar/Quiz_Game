@@ -26,5 +26,5 @@ This is a android-based quiz application written in Kotlin that uses Firebase, i
 ## Usage
 
 - Log in using Firebase Authentication.
-- Take quizzes and view results.
+- Take the quiz and view results.
 - Log out from the quiz app.
